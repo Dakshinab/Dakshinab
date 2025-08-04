@@ -1,133 +1,64 @@
-# Hey there, I'm Ravishan 👁️‍🗨️
+<div align="center">
+<img src="https://raw.githubusercontent.com/DakshinaB/DakshinaB/main/assets/banner.png" alt="Profile Banner" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raviy00&color=00FFAA&style=for-the-badge" alt="Profile Visitor Count"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&width=435&lines=Cybersecurity+Explorer+%F0%9F%94%91;Python+Dev+%7C+Linux+Hacker+%F0%9F%90%9B;Sneakerhead+%F0%9F%91%9F+%7C+Tech+Minimalist;Exploring+Automation+and+Privacy" alt="Typing SVG">
-</p>
+👋 Hello there, I'm Dakshina Dissanayake!
+A [Your Job Title/Role] and passionate software developer from [Your City, Country]. I'm also known as Dakshinab on GitHub. I love building things that live on the web and exploring new technologies.
 
-> A solitude soul navigating the digital world with music, code, and a relentless curiosity for what lies beneath the surface.
+💻 My Stack & Interests
+Here are some of the technologies I've been working with and enjoy using.
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,aws,docker" alt="My Skills" />
+</div>
 
-### 🧠 My Current Focus
+<div align="center" style="margin-top: 10px;">
+<img src="https://img.shields.io/badge/Currently%20learning-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Currently Learning" />
+<img src="https://img.shields.io/badge/Looking%20to%20collaborate%20on-Open%20Source-blue?style=flat" alt="Open to Collaboration" />
+<img src="https://img.shields.io/badge/Open%20for-Work-green?style=flat" alt="Open for Work" />
+</div>
 
-- 🎓 Finishing my final year for a **BSc (Hons) in Information Technology**.
-- 🔐 Building tools in Python and Linux to make tech smarter, safer, and more sustainable.
-- 🐧 Exploring the depths of ethical hacking and hardening digital fortresses.
-- 🤖 Automating the mundane to focus on the meaningful.
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dakshinab&show_icons=true&theme=dark" alt="Dakshinab's GitHub Stats" />
+</div>
 
----
+<div align="center" style="margin-top: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshinab&theme=dark" alt="GitHub Streak Stats" />
+</div>
 
-### 🛠️ My Arsenal: Tools & Technologies
+🚀 Featured Projects
+Here are some of my favorite projects I've built or contributed to.
 
-<p align-center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/SQLmap-E44C2C?style=for-the-badge&logo=hackaday&logoColor=white" alt="SQLmap">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Binance_Pay-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" alt="Binance Pay">
-</p>
+[Project 1 Name] - A short, one-sentence description of the project.
 
----
+[Project 2 Name] - A short, one-sentence description of the project.
 
-### 🔐 My Recent Projects
+[Project 3 Name] - A short, one-sentence description of the project.
 
-<details>
-<summary>🔑 <strong>KeyWatcher (Smart Keylogger)</strong> - An advanced offensive security tool.</summary>
-<br>
-A stealthy, Python-based keylogger designed for educational and ethical hacking purposes. Features intelligent word pattern detection, secure data exfiltration via a Telegram bot, and automated analysis of captured keystrokes.
-<p>
-  <b>Tech Stack:</b> Python, Telegram Bot API, Regular Expressions
-</p>
-</details>
+📫 Connect with me!
+<div align="center">
+<a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:[your-email-address]">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://twitter.com/[your-twitter-username]" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://[https://www.google.com/search?q=your-portfolio-website.com]" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=material-ui&logoColor=white" alt="Portfolio" />
+</a>
+</div>
 
-<details>
-<summary>🕵️ <strong>Telegram Bot Honeypot</strong> - A cyber trap for scammers.</summary>
-<br>
-This project actively tracks and analyzes scam bots like `@OPERATEtg1_B_bot`. The goal is to understand their infrastructure, document their methods, and create educational content to help protect unsuspecting users from threats.
-<p>
-  <b>Tech Stack:</b> Python, Telegram Bot API, Data Analysis
-</p>
-</details>
+📜 Fun Fact
+Did you know? I once built a [Your fun project or a fact about you].
 
-<details>
-<summary>🌱 <strong>Solar Power App (Android)</strong> - Sustainable energy planning with modern payment integration.</summary>
-<br>
-A native Android application built in Java that allows users to browse and select solar energy plans. It features seamless payment integration with the Binance Pay API and utilizes Firebase for backend services and data management.
-<p>
-  <b>Tech Stack:</b> Java, Android Studio, Firebase, Binance Pay API
-</p>
-</details>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dakshinab&style=flat-square&color=blue" alt="Visitor Count" />
+</div>
 
-<details>
-<summary>✈️ <strong>Carbon Itinerary Generator</strong> - Promoting sustainable tourism in Sri Lanka.</summary>
-<br>
-A unique tool that calculates the estimated CO₂ emissions for a tourist's travel itinerary within Sri Lanka. It aims to raise awareness about the environmental impact of travel and encourage more sustainable choices.
-<p>
-  <b>Tech Stack:</b> Python, Public Transport APIs, Carbon Emission Models
-</p>
-</details>
-
-<details>
-<summary>🖥️ <strong>Terminal Code Editor & Task Manager (CLI)</strong> - Minimalist tools for Linux.</summary>
-<br>
-Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Linux. The editor is a lightweight, Nano-like application for quick coding, while the task manager helps organize projects directly from the terminal.
-<p>
-  <b>Tech Stack:</b> Python, Curses library
-</p>
-</details>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github.com/raviy00/raviy00/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviy00&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Ravi's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviy00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</p>
-
-📫 How to Reach Me
-
-<p align="center">
-  <a href="https://t.me/gods_eye_404" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@GodsEyE__404-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  &nbsp;
-  <a href="mailto:itzraviya@duck.com">
-    <img src="https://img.shields.io/badge/Email-itzraviya@duck.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-</p>
-
-
-* 📍 Based in Sri Lanka 🌾
-* 🤖 Always working on something 🔒 or beautiful 💡
-
----
-
-> ⚡ “Stay stealthy. Stay curious. Code with purpose.” – God's EyE 🖤
-
-<!--
-**Dakshinab/Dakshinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub>Generated with ❤️ and Markdown.</sub>
+</div>
