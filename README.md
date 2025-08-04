@@ -1,23 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/DakshinaB/DakshinaB/main/assets/banner.png" alt="Profile Banner" width="100%">
-</div>
-
-👋 Hello there, I'm Dakshina Dissanayake!
-A [Your Job Title/Role] and passionate software developer from [Your City, Country]. I'm also known as Dakshinab on GitHub. I love building things that live on the web and exploring new technologies.
-
-💻 My Stack & Interests
-Here are some of the technologies I've been working with and enjoy using.
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,aws,docker" alt="My Skills" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-<img src="https://img.shields.io/badge/Currently%20learning-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Currently Learning" />
-<img src="https://img.shields.io/badge/Looking%20to%20collaborate%20on-Open%20Source-blue?style=flat" alt="Open to Collaboration" />
-<img src="https://img.shields.io/badge/Open%20for-Work-green?style=flat" alt="Open for Work" />
-</div>
-
 📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dakshinab&show_icons=true&theme=dark" alt="Dakshinab's GitHub Stats" />
@@ -25,6 +5,10 @@ Here are some of the technologies I've been working with and enjoy using.
 
 <div align="center" style="margin-top: 20px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshinab&theme=dark" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+<img src="https://github-profile-trophy.vercel.app/?username=Dakshinab&theme=gruvbox&no-bg=true&column=3" alt="GitHub Trophy" />
 </div>
 
 🚀 Featured Projects
