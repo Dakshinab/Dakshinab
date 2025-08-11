@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Dakshinab"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Context-Aware Carbon Footprint Calculator**
 
 - 🌱 I’m currently learning **DevOps**
 
