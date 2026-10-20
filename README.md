@@ -103,7 +103,7 @@ A DevOps project focused on automating application builds and deployment workflo
 
 **BSc (Hons) in Information Technology**
 Horizon Campus, Sri Lanka
-2022 – 2026 · Expected graduation: October 2026
+2022 – 2026 · Expected graduation: December 2026
 
 ## 💼 Professional Experience
 
