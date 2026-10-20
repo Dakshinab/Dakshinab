@@ -1,97 +1,152 @@
-# Dakshina Dissanayake
+<h1 align="center">Hi, I'm Dakshina Dissanayake 👋</h1>
 
-**Full Stack Developer · DevOps Engineer · IT Undergraduate**
-
-Final-year IT undergraduate at Horizon Campus, Sri Lanka. I build full-stack products and cloud infrastructure — from writing APIs to deploying pipelines on AWS. Currently targeting Full Stack and DevOps roles.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=FF5C1A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF5C1A)
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=FF5C1A)
-![Java](https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=FF5C1A)
-![PHP](https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=FF5C1A)
-![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=FF5C1A)
-![C++](https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=FF5C1A)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FF5C1A)
-![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=FF5C1A)
-![Expo](https://img.shields.io/badge/Expo-0D0D0D?style=flat-square&logo=expo&logoColor=FF5C1A)
-![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=FF5C1A)
-![Express](https://img.shields.io/badge/Express-0D0D0D?style=flat-square&logo=express&logoColor=FF5C1A)
-![Prisma](https://img.shields.io/badge/Prisma-0D0D0D?style=flat-square&logo=prisma&logoColor=FF5C1A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=FF5C1A)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=flat-square&logo=amazonwebservices&logoColor=FF5C1A)
-![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=flat-square&logo=terraform&logoColor=FF5C1A)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=flat-square&logo=githubactions&logoColor=FF5C1A)
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=FF5C1A)
-![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=FF5C1A)
-![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=FF5C1A)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=FF5C1A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=flat-square&logo=mongodb&logoColor=FF5C1A)
-![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=FF5C1A)
-![Firebase](https://img.shields.io/badge/Firebase-0D0D0D?style=flat-square&logo=firebase&logoColor=FF5C1A)
-
----
-
-## Projects
-
-**[JobTracker](https://github.com/Dakshinab)**
-Cross-platform iOS/Android app for tracking job applications. Features AI-powered job description analysis via Groq (llama-3.3-70b), Supabase auth, Zustand state management, and a polished dark/light UI.
-`Expo React Native` `TypeScript` `Supabase` `Groq API` `NativeWind`
-
----
-
-**[Serene Stay — DevOps Pipeline](https://github.com/Dakshinab)**
-Hotel booking app with full cloud infrastructure: AWS Amplify, RDS, S3, IAM, SSM Parameter Store, GitHub Actions CI/CD, and Terraform IaC.
-`Next.js` `AWS` `Terraform` `GitHub Actions` `Prisma` `PostgreSQL`
-
----
-
-**[Personal Portfolio](https://dakshina-bytes.online)**
-Developer portfolio with dark/light theme support built on Next.js 15 and React 19.
-`Next.js 15` `React 19` `Tailwind CSS` `TypeScript`
-
----
-
-**[Panda's Kitchen](https://github.com/Dakshinab)**
-MERN-stack burger shop web experience. Full-stack product with a custom frontend and REST API backend. Work in progress.
-`MongoDB` `Express.js` `React` `Node.js`
-
----
-
-## GitHub Stats
+<h3 align="center">DevOps Engineer | AWS Cloud | CI/CD Automation | Infrastructure as Code</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dakshinab&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF5C1A&icon_color=FF5C1A&text_color=888580&border_color=2A2A2A&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinab&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF5C1A&text_color=888580&border_color=2A2A2A&hide_border=false" />
+  <a href="https://github.com/Dakshinab">
+    <img src="https://img.shields.io/badge/GitHub-Dakshinab-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-DevOps-blue?style=for-the-badge" alt="Focus: DevOps"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
-## Education
+## 👨‍💻 About Me
 
-**BSc (Hons) in Information Technology** — Horizon Campus, Sri Lanka
-GPA 3.4 · Graduating 2026
+I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka, focused on **DevOps engineering, cloud infrastructure, and deployment automation**.
+
+I recently completed a six-month internship as a **DevOps Engineer Intern at Codezela Technologies (Pvt) Ltd**, gaining practical experience in application deployment, Linux environments, Docker, cloud infrastructure, monitoring, logging, and troubleshooting.
+
+I'm passionate about automating repetitive tasks, building reliable CI/CD pipelines, managing infrastructure as code, and improving application deployment workflows.
+
+* ☁️ Interested in AWS cloud infrastructure and cloud-native technologies.
+* 🔄 Exploring CI/CD automation and deployment strategies.
+* 🐳 Working with containerization and infrastructure automation.
+* 🛠️ Enjoy troubleshooting technical issues and improving deployment workflows.
+* 🎯 Career focus: DevOps Engineering and Cloud Engineering.
+* 📍 Based in Sri Lanka.
 
 ---
 
-## Connect
+## 🛠️ Technical Skills
 
-[dakshinabanu@gmail.com](mailto:dakshinabanu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dakshinab-dissanayake-301162227/) · [Portfolio](https://dakshina-bytes.online)
+### ☁️ Cloud Computing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+</p>
+
+AWS EC2 · S3 · IAM · Amplify
+
+### ⚙️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,bash,git,github" alt="DevOps tools"/>
+</p>
+
+Docker · Kubernetes · Terraform · GitHub Actions · Linux · CI/CD · Git · GitHub
+
+### 💻 Programming & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript" alt="Programming and scripting"/>
+</p>
+
+Python · Bash · JavaScript · TypeScript
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+</p>
+
+PostgreSQL · MySQL · MongoDB
 
 ---
 
-*"Continuous learning and consistent execution build strong engineers."*
+## 🚀 Featured DevOps Projects
+
+### 1. OrderFlow — DevOps Platform on AWS
+
+A cloud-native project focused on infrastructure automation, containerized workloads, and secure CI/CD workflows.
+
+**Technologies:** AWS · Terraform · Docker · Kubernetes · Amazon ECR · GitHub Actions · Spring Boot · PostgreSQL
+
+**Key areas:**
+
+* Infrastructure provisioning using Terraform.
+* Container image builds and storage in Amazon ECR.
+* Kubernetes-based application deployment.
+* CI/CD automation using GitHub Actions.
+* AWS authentication through GitHub Actions OIDC.
+* Least-privilege IAM permissions.
+
+### 2. DeployFlow — CI/CD Pipeline for a Containerized API
+
+A DevOps project focused on automating application builds and deployment workflows using containers and AWS infrastructure.
+
+**Technologies:** AWS · Terraform · Docker · GitHub Actions · Python · Flask
+
+**Key areas:**
+
+* Containerizing an API with Docker.
+* Automating build and deployment workflows.
+* Provisioning cloud infrastructure using Terraform.
+* Managing application configuration and deployment processes.
+
+> Project repositories and implementation details will be linked here as they are published and documented.
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) in Information Technology**
+Horizon Campus, Sri Lanka
+2022 – 2026 · Expected graduation: October 2026
+
+## 💼 Professional Experience
+
+**DevOps Engineer Intern**
+Codezela Technologies (Pvt) Ltd
+March 2026 – September 2026
+
+* Application deployment and CI/CD workflows.
+* Linux environments and application configuration.
+* Docker and containerized applications.
+* Cloud infrastructure, monitoring, logging, and troubleshooting.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dakshinab&show_icons=true&theme=transparent&hide_border=true" alt="Dakshina's GitHub statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshinab&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/Dakshinab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dakshina-dissanayake-301162227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dakshinabanu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <i>Building, automating, learning, and improving — one deployment at a time.</i>
+</p>
